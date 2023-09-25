@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## idea
++ Eureka!
+  + the every people who inspirated or avove from sink thougt thing, they can proove yourselves like an academic meeting.
+  + the word they post changes to appearance in diseration by bert power
+  + in result, everyone knows a boundry other
+  + and it's rearrange could be money and revenue ideea post man
++ niconico archiver
+  + niconico douga has important function is flow-the-comment on synclonize, YouTube can't do it
+  + it's drawed an aspect both movie, american movie of literal movie is created assumption obstract other word
+  + but japanese movies there are many spaces and flow to next and more word so comment is fits
