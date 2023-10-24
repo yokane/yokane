@@ -21,6 +21,7 @@ Here are some ideas to get you started:
   + the word they post changes to appearance in diseration by bert power
   + in result, everyone knows a boundry other
   + and it's rearrange could be money and revenue ideea post man
+  + that's shape it may each attractions. 
 + niconico archiver
   + niconico douga has important function is flow-the-comment on synclonize, YouTube can't do it
   + it's drawed an aspect both movie, american movie of literal movie is created assumption obstract other word
