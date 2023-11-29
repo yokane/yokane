@@ -1,35 +1,86 @@
-body {
-    font-family: Arial, sans-serif;
+/* 基本的なリセットとフォント設定 */
+* {
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    box-sizing: border-box;
+    font-family: 'Arial', sans-serif;
+}
+
+body {
+    font-size: 16px;
+    line-height: 1.6;
     color: #333;
+    background-color: #f5f5f5;
 }
 
+/* ヘッダーとナビゲーション */
 header {
-    background-color: #4CAF50;
-    color: white;
-    text-align: center;
-    padding: 1em 0;
-}
-
-header h1 {
-    margin: 0;
-}
-
-section {
-    padding: 2em;
+    background-color: #004d40;
+    color: #fff;
+    padding: 1rem 0;
     text-align: center;
 }
 
-#about, #skills {
-    background-color: #e8e8e8;
-    margin: 1em 0;
+nav ul {
+    list-style: none;
+    padding: 0;
+    text-align: center;
 }
 
+nav ul li {
+    display: inline;
+    margin: 0 15px;
+}
+
+nav ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+/* セクションのタイトル */
+h2 {
+    background-color: #00695c;
+    color: #fff;
+    padding: 10px 0;
+    text-align: center;
+    margin-top: 20px;
+}
+
+/* プロジェクトとスキルセットのスタイル */
+.project, .skills {
+    background-color: #e8f5e9;
+    padding: 15px;
+    margin: 15px 0;
+}
+
+.project p, .skills p {
+    margin-bottom: 10px;
+}
+
+.project ul, .skills ul {
+    padding-left: 20px;
+}
+
+.project ul li, .skills ul li {
+    list-style-type: square;
+    margin-bottom: 5px;
+}
+
+/* フッター */
 footer {
-    background-color: #333;
-    color: white;
+    background-color: #004d40;
+    color: #fff;
     text-align: center;
-    padding: 1em 0;
+    padding: 10px 0;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
+
+/* レスポンシブデザイン */
+@media screen and (max-width: 768px) {
+    nav ul li {
+        display: block;
+        margin: 10px 0;
+    }
 }
