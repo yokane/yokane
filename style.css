@@ -21,6 +21,16 @@ header {
     text-align: center;
 }
 
+/* ヘッダーのロゴコンテナ */
+.logo-container {
+    text-align: center;
+    padding: 10px 0;
+}
+
+.logo-container img {
+    height: 80px; /* ロゴのサイズを調整 */
+}
+
 nav ul {
     list-style: none;
     padding: 0;
