@@ -28,7 +28,8 @@ header {
 }
 
 .logo-container img {
-    height: 80px; /* ロゴのサイズを調整 */
+    width: 512px; /* ロゴの幅を512pxに設定 */
+    height: 512px; /* ロゴの高さを512pxに設定 */
 }
 
 nav ul {
