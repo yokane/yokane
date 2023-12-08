@@ -184,6 +184,13 @@ h2 {
     margin-bottom: 20px;
 }
 
+#btc-transfer p {
+    background-color: #f0f0f0;
+    padding: 10px;
+    border-radius: 4px;
+    font-family: 'Courier New', monospace;
+}
+
 /* フッター */
 footer {
     background-color: #004d40;
