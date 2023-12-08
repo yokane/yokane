@@ -168,6 +168,21 @@ h2 {
     font-family: 'Lucida Console', 'Lucida Sans Typewriter', monospace; /* レトロなフォント */
 }
 
+#founding-story {
+    padding: 20px;
+    margin: 20px;
+    background-color: #e8f5e9;
+    border-radius: 8px;
+}
+
+#founding-story h2 {
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+#founding-story p {
+    margin-bottom: 20px;
+}
 
 /* フッター */
 footer {
