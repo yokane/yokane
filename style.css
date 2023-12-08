@@ -105,6 +105,23 @@ h2 {
 }
 
 
+#company-rules {
+    padding: 20px;
+    margin: 20px;
+    background-color: #e8f5e9;
+    border-radius: 8px;
+}
+
+#company-rules h2 {
+    color: #004d40;
+    margin-bottom: 20px;
+}
+
+#company-rules p {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
 /* フッター */
 footer {
     background-color: #004d40;
