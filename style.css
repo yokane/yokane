@@ -150,7 +150,7 @@ h2 {
 
 #main-tasks h2 {
     font-family: 'Courier New', Courier, monospace; /* レトロなタイプライター風のフォント */
-    color: #003366; /* 暗い青色 */
+    color: #fff; /* 暗い青色 */
     text-align: center;
 }
 
