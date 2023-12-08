@@ -122,6 +122,25 @@ h2 {
     text-align: justify;
 }
 
+#behind-the-scenes {
+    padding: 20px;
+    margin: 20px;
+    background-color: #e0f2f1;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+#behind-the-scenes h2 {
+    color: #00695c;
+    margin-bottom: 20px;
+}
+
+#behind-the-scenes p {
+    margin-bottom: 20px;
+    text-align: justify;
+}
+
+
 /* フッター */
 footer {
     background-color: #004d40;
