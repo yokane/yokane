@@ -77,6 +77,34 @@ h2 {
     margin-bottom: 5px;
 }
 
+
+#philosophy {
+    padding: 20px;
+    margin: 20px;
+    background-color: #e8f5e9;
+    border-radius: 8px;
+}
+
+#philosophy h2 {
+    color: #004d40;
+    margin-bottom: 20px;
+}
+
+#philosophy p {
+    margin-bottom: 20px;
+}
+
+#philosophy em {
+    font-style: italic;
+    color: #00695c;
+}
+
+#philosophy strong {
+    font-weight: bold;
+    color: #2e7d32;
+}
+
+
 /* フッター */
 footer {
     background-color: #004d40;
